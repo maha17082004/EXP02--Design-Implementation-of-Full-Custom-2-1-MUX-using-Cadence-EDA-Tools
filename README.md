@@ -1,16 +1,19 @@
 # EXP02--Design-Implementation-of-Full-Custom-2-1-MUX-using-Cadence-EDA-Tools
 ## Experiment -2 
 ## Aim:
-```
+
 To design and implement a 2:1 multiplexer (MUX) circuit using Cadence EDA tools, analyse its functionality and performance, and understand the principles of digital logic design, including schematic creation, layout design, and simulation.
-```
+
 ## Tools Required:
-```
+
 •	Personal Computer
 •	Cadence Virtuoso Software
-```
+## circuit diagram:
+![WhatsApp Image 2024-11-13 at 16 26 08_5666809b](https://github.com/user-attachments/assets/115841c4-4540-423a-9316-dd0958c4d3ff)
+
+
 ## S C H E M A T I C S I M U L A T I O N
-## PROCEDURE FOR CREATING THE SCHEMATIC SIMULATION
+ PROCEDURE FOR CREATING THE SCHEMATIC SIMULATION
 Commands to get into Cadence
 1.	Right Click and open the terminal window
 2.	Type the following commands as follows and press enter.
@@ -79,7 +82,8 @@ iv)	Creating the new test cell view
 	View: Schematic
 	Type: Schematic press OK
 •	Follow the step 3(ii) d to make the required connections
- ![image](https://github.com/user-attachments/assets/85b7456e-1902-4ac2-8291-6ae6035dd0a2)
+
+  ![Screenshot 2024-10-22 125817](https://github.com/user-attachments/assets/c81c8d6b-7eaa-43bd-8947-014414f72bf0)
 
 Analog simulation by SPECTRE.
 •	In test cell view window
@@ -91,18 +95,13 @@ Analog simulation by SPECTRE.
 	Execute Output s—to be plotted – Select on Schematic
 	Then Select the INPUT WIRE(Vin ) and OUTPUT WIRE(Vout) from your test Schematic using mouse
 •	Execute Simulation -- Net list and Run
- ![Screenshot 2024-10-22 125817](https://github.com/user-attachments/assets/c81c8d6b-7eaa-43bd-8947-014414f72bf0)
 
 
 ## For Transient Analysis Settings and Output
 
 ![Screenshot 2024-10-23 101727(1)](https://github.com/user-attachments/assets/f5391794-e11f-4381-ac47-1936e035b73c)
 
- ![image](https://github.com/user-attachments/assets/557307b6-a35f-4e94-90e4-59bdb361c676)
-
-
-
- 
+![image](https://github.com/user-attachments/assets/0ff34692-d494-4e57-b6d5-94123cf091fb)
 
 ## Results:
 ```
