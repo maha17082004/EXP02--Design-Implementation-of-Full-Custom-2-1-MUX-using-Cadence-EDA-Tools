@@ -104,7 +104,7 @@ Analog simulation by SPECTRE.
 ![image](https://github.com/user-attachments/assets/0ff34692-d494-4e57-b6d5-94123cf091fb)
 
 ## Results:
-```
+
 1.	The experiment successfully demonstrated the design and implementation of a 2:1 MUX using Cadence EDA tools. 
 2.	The successful verification through schematic, layout, and simulation underscores the effectiveness of using Cadence EDA tools for digital circuit design.
-```
+
